@@ -4,6 +4,7 @@ function codePythonEqualJs() {
     console.log("Code python = javascript")
 }
 
+
 console.log(
     "Hello mình là A"
 )
@@ -12,3 +13,6 @@ console.log(
 console.log(
     "Code thêm một tí nữa - DevA"
 )
+
+console.log('i am B');
+
