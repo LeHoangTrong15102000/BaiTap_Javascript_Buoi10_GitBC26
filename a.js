@@ -7,3 +7,8 @@ function codePythonEqualJs() {
 console.log(
     "Hello mình là A"
 )
+
+
+console.log(
+    "Code thêm một tí nữa - DevA"
+)
