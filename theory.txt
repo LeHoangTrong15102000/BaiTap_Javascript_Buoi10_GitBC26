@@ -1,0 +1,3 @@
+Nếu xảy ra xung đột thì chúng ta fix xung đột
+
+// Phải git pull về để có version mới nhất sau đó thì đẩy source của a lên
